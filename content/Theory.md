@@ -5,6 +5,8 @@ kernelspec:
 ---
 # Theory
 
+$$ \nu_{\mu} + N \rightarrow \mu + N' $$
+
 We can have inline equations like $E=mc^2$ or display equations like:
 
 $$\oint_C \varphi$$
